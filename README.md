@@ -9,9 +9,9 @@ The purpose of this week’s assignment was to explore the Extract-Transform-Loa
 ### Data Analyzed
 
 Movie data from:
---Wikipedia, 
-Kaggle metadata, 
-MovieLens rating data (from Kaggle)
+- Wikipedia, 
+- Kaggle metadata, 
+- MovieLens rating data (from Kaggle)
 
 ### Deliverables
 The deliverables for this assignment were:
