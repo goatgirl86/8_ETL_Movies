@@ -23,6 +23,7 @@ The deliverables for this assignment were:
 ## Results
 
 ###Screenshots
+
 Screenshot 1: Data frame wiki_movies from Deliverable #1.
  ![image](https://user-images.githubusercontent.com/92705556/153739496-276a757b-3ba5-492d-bcc5-4e8e4d93273d.png)
 
@@ -68,5 +69,5 @@ Screenshot 10: Query of “ratings” from Deliverable # 4.  Note: I called mine
 
 
 ## Summary
--	The summary table for movies as 6,052 entries.
--	The summary table for ratings has 26,024,289 entries.
+-	The summary table for movies as 6,052 rows.
+-	The summary table for ratings has 26,024,289 rows.
