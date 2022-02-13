@@ -22,7 +22,7 @@ The deliverables for this assignment were:
 
 ## Results
 
-###Screenshots
+### Screenshots
 
 Screenshot 1: Data frame wiki_movies from Deliverable #1.
  ![image](https://user-images.githubusercontent.com/92705556/153739496-276a757b-3ba5-492d-bcc5-4e8e4d93273d.png)
